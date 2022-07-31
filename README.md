@@ -12,6 +12,6 @@ Here I attach a list of projects, which are stored seperatly in respective folde
 Please note that beneath I only included compressed versoins of the descriptions, fully detailed ones are </br>
 uploaded in dedicated folders as project readme.rmd files.
 
-- `housing` - 
 - `cryptocurrency` - 
+- `housing_market` - 
 - `job_market` - 
